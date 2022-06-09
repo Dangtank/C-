@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\DAY2_LINQ\\DAY2_LINQ.csproj": {}
+    "d:\\C#\\DAY2_LINQ\\DAY2_LINQ.csproj": {}
   },
   "projects": {
-    "D:\\C#\\DAY2_LINQ\\DAY2_LINQ.csproj": {
+    "d:\\C#\\DAY2_LINQ\\DAY2_LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\DAY2_LINQ\\DAY2_LINQ.csproj",
+        "projectUniqueName": "d:\\C#\\DAY2_LINQ\\DAY2_LINQ.csproj",
         "projectName": "DAY2_LINQ",
-        "projectPath": "D:\\C#\\DAY2_LINQ\\DAY2_LINQ.csproj",
+        "projectPath": "d:\\C#\\DAY2_LINQ\\DAY2_LINQ.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\DAY2_LINQ\\obj\\",
+        "outputPath": "d:\\C#\\DAY2_LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config"
